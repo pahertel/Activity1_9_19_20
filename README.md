@@ -8,7 +8,7 @@ To make lots of money.
 Why did you choose FinTech as a career path?
 To learn and get a better understanding of the evolution of technology.
 
-![Destription](C:\Users\palex\OneDrive\Documents\Work\BIOPROTECT\Website/Nano Spikes.PNG)
+![Destription](Nano_Spikes.PNG)
 
 ## H2 Desciption
 
